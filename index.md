@@ -1,12 +1,15 @@
 
 ---
 layout: home
-title: HydroSignal,net
+title: Hydro Signal
 permalink: /
 header:
   image: /assets/images/Screenshot_20250731_133813.png
-  #caption: "Photo credit: [**Google Earth**](https://earth.google.com/)"
-  
+  caption: "Photo credit: [**Google Earth**](https://earth.google.com/)"
+tags: 
+  - Signal
+  - Noise
+  - About 
 ---
 
   
