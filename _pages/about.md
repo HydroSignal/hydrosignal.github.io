@@ -1,6 +1,6 @@
 ---
 layout: single
-title: HydroSignal.net
+title: About HydroSignal.net
 permalink: /_pages/about.md
 author_profile: false
 header:
@@ -9,3 +9,7 @@ header:
   caption: "Photo credit: [**Google Earth**](https://earth.google.com/)"
 excerpt: "Analyzing H&H signals in the noise to design, deliver & implement water resource solutions now." # Optional: Meta description for SEO
 ---
+
+## HydroSignal.net
+
+Analyzing H&H signals in the noise to design, deliver & implement water resource solutions now.
