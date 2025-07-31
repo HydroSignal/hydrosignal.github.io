@@ -1,7 +1,7 @@
 ---
 layout: single
 title: HydroSignal.net
-permalink: /about/
+permalink: /_pages/about.md
 author_profile: false
 header:
   overlay_image: /assets/images/Screenshot_20250731_133813.png #header image
