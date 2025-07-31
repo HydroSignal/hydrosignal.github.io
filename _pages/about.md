@@ -1,6 +1,5 @@
----
 # About HydroSignal.net
 
-** Delivering H&H Signals from the noise. **
+** Delivering H&H signals from the noise to implement solutions now. **
 
 
