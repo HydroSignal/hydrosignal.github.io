@@ -1,18 +1,15 @@
-
 ---
-layout: home
-title: Hydro Signal
-permalink: /
+title: "Hydro Signal"
 header:
   image: /assets/images/Screenshot_20250731_133813.png
   caption: "Photo credit: [**Google Earth**](https://earth.google.com/)"
 tags: 
   - Signal
   - Noise
-  - About 
+  - About
 ---
 
-  
+ 
 
 # Section 1
 ## Section 1.1
