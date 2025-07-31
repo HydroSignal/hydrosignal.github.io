@@ -1,8 +1,8 @@
 ---
 layout: single
-title: example.com
+title: HydroSignal.net
 permalink: /about/
-author_profile: true
+author_profile: false
 header:
   overlay_image: /assets/images/Screenshot_20250731_133813.png #header image
   overlay_filter: 0.5 # Optional: Opacity of the overlay filter
