@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
+
+# 
+#theme: jekyll-theme-minimal
 title: HydroSignal.net
 description: HydroSignal.net
+
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.3" # Use the latest version or a specific tag
+plugins:
+  - jekyll-include-cache
