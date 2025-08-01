@@ -6,23 +6,8 @@ header:
 tags: 
   - Signal
   - Noise
-  - About
+  #- About
 ---
 
  
-
-# Section 1
-## Section 1.1
-
-
-# Section 2
-## Section 2.1
-## Section 2.2
-### Section 2.2.1
-
-## Section 2.3
-
-
-# Section 3
-
-
+### Analyzing H&H signals in the noise to design, deliver & implement water resource solutions now.
